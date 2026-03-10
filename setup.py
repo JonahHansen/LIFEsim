@@ -30,6 +30,7 @@ setup(
               'lifesim.gui',
               'lifesim.instrument',
               'lifesim.optimize',
+              'lifesim.analysis',
               'lifesim.util'],
     include_package_data=True,
     install_requires=['astropy>=5.2.1',
